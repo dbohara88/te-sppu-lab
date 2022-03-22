@@ -1,4 +1,4 @@
 # te-sppu-lab
 
-#Cyber Security code
-#Artifical Intelligence code
+Cyber Security code
+\nArtifical Intelligence code
